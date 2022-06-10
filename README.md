@@ -53,6 +53,9 @@ I will document my progress in this project through my commits and through the c
 
 ### What I learned
 
+- Event Listener
+- Constructor Function
+- Initialize Object
 
 
 ### Continued development

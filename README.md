@@ -55,7 +55,7 @@ I will document my progress in this project through my commits and through the c
 
 - Event Listeners
 - Passing Functions as Arguments
-- Constructor Function
+- Constructor Functions
 - Initialize Object
 - Switch Statements
 

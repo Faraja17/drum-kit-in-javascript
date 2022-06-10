@@ -53,6 +53,11 @@ I will document my progress in this project through my commits and through the c
 
 ### What I learned
 
+- Event Listeners
+- Passing Functions as Arguments
+- Constructor Functions
+- Initialize Object
+- Switch Statements
 
 
 ### Continued development

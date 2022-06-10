@@ -53,7 +53,7 @@ I will document my progress in this project through my commits and through the c
 
 ### What I learned
 
-- Event Listener
+- Event Listeners
 - Passing Functions as Arguments
 - Constructor Function
 - Initialize Object

@@ -60,7 +60,8 @@ I will document my progress in this project through my commits and through the c
 - Switch Statements
 - Methods
 - Dot Notation
-
+- Keydown
+- Callbacks
 
 ### Continued development
 

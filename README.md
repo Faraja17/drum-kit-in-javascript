@@ -66,7 +66,7 @@ Wow, I learned so very much during the completion of this project! I took a lot 
 
 In this case, we had button click data and keyboard press data to set as our argument. Obtaining the value of the key pressed was straightforward--it was set as one of the values of the event and could be obtained via callback, but the value of the button click had to be created by naming each button the name of a key and then calling that name through innerHTML. 
 
-In the end, the key press and button click values were identical and were easily passed into the to functions: to play the correct sound and to animate the active selection.  Only having to write two functions shared functions saved an enormous amount of time and lines of code.
+In the end, the key press and button click values were identical and were both successfully passed into the same two functions: to play the correct sound and to animate the active selection.  Only having to write two shared functions saved an enormous amount of time and lines of code.
 
 Concatenation came into play again during this project in order to pass in the class name, which requires the `.` as in `.w`:
 

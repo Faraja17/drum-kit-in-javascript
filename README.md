@@ -58,6 +58,8 @@ I will document my progress in this project through my commits and through the c
 - Constructor Functions
 - Initialize Object
 - Switch Statements
+- Methods
+- Dot Notation
 
 
 ### Continued development

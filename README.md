@@ -37,7 +37,7 @@ Again I was given completed HTML and CSS files, along with image and sound files
 
 As usual, I paused the video whenever it was recommended to do so. This project was much more challenging than the Dicee project, and I was not able to solve everything independently, but I learned A LOT, and I took my time to be sure I understood each concept before proceeding to the next step. There was a point when I became stuck for two hours and could not identify any bugs. I consulted the Q and A message boards and discovered that several classmates had had the same problem. For some reason that those classmates and I still have not figured out, `this.innerHTML` would not work. Some classmates figured out that using `this.textContent` worked, but then the strangest thing--changing back afterwards to `this.innerHTML` suddenly worked. I confirmed this to be true!
 
-My final step will be to make the site responsive. I will have to come back to fix it later--I have a VERY exciting project to work on that needs my full attention for the next week or so. I will probably discuss that project, and the reason for all of the excitement in a blog post.
+My final step will be to make the site responsive. I will have to come back to fix it later--I have a VERY exciting project to work on that needs my full attention for the next week or so. I will probably discuss that project, and the reason for all of the excitement, in a blog post.
 
 
 ### Built with

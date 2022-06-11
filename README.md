@@ -62,6 +62,7 @@ I will document my progress in this project through my commits and through the c
 - Dot Notation
 - Keydown
 - Callbacks
+- setTimeout() Method
 
 ### Continued development
 

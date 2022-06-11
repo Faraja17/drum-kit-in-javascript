@@ -1,4 +1,4 @@
-// detecting button clicks
+// detecting button clicks. . .
 for (let i = 0; i < document.querySelectorAll('.drum').length; i++) {
 
     document.querySelectorAll('.drum')[i].addEventListener('click', function() {
@@ -10,7 +10,7 @@ for (let i = 0; i < document.querySelectorAll('.drum').length; i++) {
 
     });
 }
-// d etecting keyboard presses
+// detecting keyboard presses. . .
 document.addEventListener('keydown', function(event) {
     
     makeSound(event.key);
@@ -64,9 +64,9 @@ function buttonAnimation(currentKey) {
 
     let activeButton = document.querySelector(`.${currentKey}`);
 
-    activeButton.classList.add('pressed');
+    activeButton.classList.add('pressed'); /*.classlist.add is used to add the pressed property from the css file.*/
 
     setTimeout(function() {
         activeButton.classList.remove('pressed');    
-    }, 100);
+    }, 100); /*milliseconds, so .01 seconds*/
 }

@@ -8,7 +8,7 @@ I will document my progress in this project through my commits and through the c
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link(s) to the Live Site](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)

@@ -64,7 +64,9 @@ My final step will be to make the site responsive. I will have to come back to f
 
 Wow, I learned so very much during the completion of this project! I took a lot of notes to refer to in the future when I inevitably forget how all of these new things work. My biggest take-away was that even though you may be working with very different data, as long as the arguments passed in are compatible, the same function can be used.  
 
-In this case, we had button click data and keyboard press data to set as our argument. Obtaining the value of the key pressed was straightforward--it was set as one of the values of the event and could be obtained via callback, but the value of the button click had to be created by naming each button the name of a key and then calling that name through innerHTML. In the end, the key press and button click values were identical and were easily passed into the to functions: to play the correct sound and to animate the active selection.  Only having to write two functions shared functions saved an enormous amount of time and lines of code.
+In this case, we had button click data and keyboard press data to set as our argument. Obtaining the value of the key pressed was straightforward--it was set as one of the values of the event and could be obtained via callback, but the value of the button click had to be created by naming each button the name of a key and then calling that name through innerHTML. 
+
+In the end, the key press and button click values were identical and were easily passed into the to functions: to play the correct sound and to animate the active selection.  Only having to write two functions shared functions saved an enormous amount of time and lines of code.
 
 Concatenation came into play again during this project in order to pass in the class name, which requires the `.` as in `.w`:
 
